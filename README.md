@@ -109,12 +109,6 @@ This project predicts the **salary of an employee** based on their **years of ex
 - Model Evaluation (R², MSE, RMSE)  
 - Data Visualization  
 - Model Saving & Reuse  
-
----
-
-## GitHub Repository
-[View the project on GitHub](https://github.com/Prakalp-74/Salary-prediction-ML)
-
 ---
 
 ## Author
